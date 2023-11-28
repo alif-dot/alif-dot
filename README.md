@@ -12,10 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [deznolworld.com](deznolworld.com)
 
-- 📝 I regularly write articles on [deznolworld.com](deznolworld.com)
-
-- 💬 Ask me about **react, vue and gsap**
-
 - 📫 How to reach me **alif@uysys.com**
 
 <h3 align="left">Connect with me:</h3>
